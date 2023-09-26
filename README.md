@@ -1,7 +1,7 @@
 Hi there 👋 I'm Bwook Kim (Byoungwook Kim). 
 
 - 🔭 I am founder of [EDAI](https://github.com/edai-club).
-- - 🔭 I am founder of [NomaDamas](https://github.com/NomaDamas).
+- 🔭 I am founder of [NomaDamas](https://github.com/NomaDamas).
 
 ## 🤩 Skills
 
