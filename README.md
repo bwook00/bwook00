@@ -3,6 +3,8 @@ Hi there 👋 I'm Bwook Kim (Byoungwook Kim).
 - 🔭 I am founder of [EDAI](https://github.com/edai-club).
 - 🔭 I am founder of [NomaDamas](https://github.com/NomaDamas).
 
+  ### [My blog](https://velog.io/@bwook00)
+
 ## 🤩 Skills
 
 ### Languages
