@@ -29,4 +29,6 @@ Hi there 👋 I'm Bwook Kim (Byoungwook Kim).
 
 ### Challenged
 * `Dacon`  **[Job Care Recommendation Algoritm Competition](https://dacon.io/competitions/official/235863/leaderboard)** 15/728 [Code](https://github.com/PCEO-AI-CLUB/JobCare--DACON)
-* `Dacon` **[Han River Water Level Prediction Competition](https://dacon.io/competitions/official/235949/leaderboard)** 16/308 
+* `Dacon` **[Han River Water Level Prediction Competition](https://dacon.io/competitions/official/235949/leaderboard)** 16/308
+* `Kaggle` **[PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard)** 1483/3537
+* `Kaggle` **[Open Problems - Multimodal Single-Cell Integration]([https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard](https://www.kaggle.com/competitions/open-problems-multimodal)https://www.kaggle.com/competitions/open-problems-multimodal)** 610/1220 
