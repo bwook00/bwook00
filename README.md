@@ -23,7 +23,7 @@ Hi there 👋 I'm Bwook Kim (Byoungwook Kim).
 * `EDAI` **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build thechnologies for meausring valid impressions of in-game advertisements.
 * `NomaDamas` **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
 * `NomaDamas` **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
-* `Marker Inc.` **[RAGchain](https://github.com/Marker-Inc-Korea/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.
+* `Marker Inc.` **[RAGchain](https://github.com/Marker-Inc-Korea/RAGchain)** - Building advanced RAG framework. Extension of Langchain for RAG
 * `Marker Inc.` **[RAGround](https://github.com/Marker-Inc-Korea/RAGround)** - Automatically Evaluate RAG pipelines with "your own data". Find optimal baseline for new RAG product.
 
 
