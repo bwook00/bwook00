@@ -1,8 +1,6 @@
 Hi there 👋 I'm Bwook Kim (Byoungwook Kim). 
 
-- 🔭 I am founder of [EDAI Inc.](https://github.com/edai-club).
-- 🔭 I am founder of [NomaDamas](https://github.com/NomaDamas).
-- 🔭 I am member of [Marker Inc.](https://github.com/Marker-Inc-Korea).
+- 🔭 🔭 I am making [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG).
 
   ### [My blog](https://velog.io/@bwook00)
 
