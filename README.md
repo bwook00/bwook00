@@ -2,7 +2,7 @@ Hi there 👋 I'm Bwook Kim (Byoungwook Kim).
 
 - 🔭 I am making [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG).
 
-  ### [My blog](https://velog.io/@bwook00)
+  ### [My blog](https://bobb-ai-brain.vercel.app)
 
 ## 🤩 Skills
 
