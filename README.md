@@ -1,32 +1,50 @@
 Hi there 👋 I'm Bwook Kim (Byoungwook Kim). 
 
 - 🔭 I am making [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG).
-
-  ### [My blog](https://bobb-ai-brain.vercel.app)
+### [My LinkenIn](https://www.linkedin.com/in/autorag-bwook)
+### [My blog](https://bobb-ai-brain.vercel.app)
 
 ## 🤩 Skills
 
-### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C#&logoColor=white"/> 
+- RAG Evaluation & Optimization
+- RAG Data Preprocess
+- Build opensource project from zero base
+- Manage open source community
+- Technical writing
 
-### AI
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/scikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> 
+## Interest
 
-### Others...
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-202020?style=flat-square&logo=Unity&logoColor=white"/>
+- RAG Evaluation & Optimization
+- LLM Evaluation
+- AI Alignment / Safety 
+- Multi-Modal
 
 ## 💼 Projects
-* `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idol. 
-* `EDA` **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols. 
-* `EDAI` **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build thechnologies for meausring valid impressions of in-game advertisements.
-* `NomaDamas` **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
+* `AutoRAG` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. Actively developing. Building business with it.
+* `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage automatically.
 * `NomaDamas` **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
-* `Marker Inc.` **[RAGchain](https://github.com/Marker-Inc-Korea/RAGchain)** - Building advanced RAG framework. Extension of Langchain for RAG
-* `Marker Inc.` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - Automatically Evaluate RAG pipelines with "your own data". Find optimal pipeline for new RAG product.
+* `NomaDamas` **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
+* `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.
+* `EDAI` **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build thechnologies for meausring valid impressions of in-game advertisements.
+* `EDA` **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols.
+* `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idol.
 
+## Paper
+* [AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline](https://arxiv.org/abs/2410.20878)
 
-## 🎀 Competitions
+## Conferences/Sessions
+- Uber AI: Online Seminar
+- AWS Korea: [2024 AWS Gen AI Loft Seoul](https://aws.amazon.com/startups/events/autorag-optimal-rag-pipeline)
+- Google Developer Gropus: [2024 GDG Devfest Seoul](https://www.facebook.com/googlefordevskr/posts/12%EC%9B%94-14%EC%9D%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%98-%EC%B6%95%EC%A0%9C-devfest-2024-seoul%EC%9D%B4-%EA%B0%9C%EC%B5%9C-%EB%90%A9%EB%8B%88%EB%8B%A4gdg-seoul%EC%9D%B4-%EC%A3%BC%EC%B5%9C%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-devfest-2024/1118098330323786/)
+- Youtube Teddy Note
+- [Fast Campus](https://fastcampus.co.kr/data_online_evaluation)
 
-### Challenged
-* `Dacon`  **[Job Care Recommendation Algoritm Competition](https://dacon.io/competitions/official/235863/leaderboard)** 15/728 [Code](https://github.com/PCEO-AI-CLUB/JobCare--DACON)
-* `Dacon` **[Han River Water Level Prediction Competition](https://dacon.io/competitions/official/235949/leaderboard)** 16/308
+<details>
+  <summary><b>🎀 Competitions</b></summary>
+  <div markdown="1">
+    <h3 id="challenged">Challenged</h3>
+    <ul>
+    <li><code>Dacon</code>  <strong><a href="https://dacon.io/competitions/official/235863/leaderboard">Job Care Recommendation Algoritm Competition</a></strong> 15/728 <a href="https://github.com/PCEO-AI-CLUB/JobCare--DACON">Code</a></li>
+    <li><code>Dacon</code> <strong><a href="https://dacon.io/competitions/official/235949/leaderboard">Han River Water Level Prediction Competition</a></strong> 16/308 </li>
+</ul>
+</details>
