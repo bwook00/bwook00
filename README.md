@@ -29,6 +29,9 @@ Hi there 👋 I'm Bwook Kim (Byoungwook Kim).
 * `EDA` **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols.
 * `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idol.
 
+## Contirbutions
+**[NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
+
 ## Paper
 * [AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline](https://arxiv.org/abs/2410.20878)
 
