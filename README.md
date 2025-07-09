@@ -26,7 +26,7 @@ Hi there 👋 I'm Bwook(bobb) Kim.
       <td align="center">
         <img src="https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=flat&label=" height="20"/>
       </td>
-      <td>2024~</td>
+      <td>2024 ~ </td>
       <td>Marker-Inc-Korea</td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@ Hi there 👋 I'm Bwook(bobb) Kim.
       <td align="center">
         <img src="https://img.shields.io/github/stars/NomaDamas/KICE_slayer_AI_Korean?style=flat&label=" height="20"/>
       </td>
-      <td>2023</td>
+      <td>2023 ~ 2024</td>
       <td>NomaDamas</td>
     </tr>
     <tr>
@@ -44,7 +44,7 @@ Hi there 👋 I'm Bwook(bobb) Kim.
       <td align="center">
         <img src="https://img.shields.io/github/stars/NomaDamas/awesome-korean-llm?style=flat&label=" height="20"/>
       </td>
-      <td>2023~</td>
+      <td>2023</td>
       <td>NomaDamas</td>
     </tr>
     <tr>
