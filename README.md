@@ -8,14 +8,18 @@ Hi there 👋 I'm Bwook(bobb) Kim.
 - [Korean blog](https://bobb-ai-brain.vercel.app)
 
 ## 💼 Projects
-* `AutoRAG` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. Actively developing. Building business with it.
-* `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage automatically.
-* `NomaDamas` **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
-* `NomaDamas` **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
-* `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.
-* `EDAI` **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build thechnologies for meausring valid impressions of in-game advertisements.
-* `EDA` **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols.
-* `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idol.
+
+| Name                  | Description                                                                                           | Corporation       | Period / Year | Star                                                                                              |
+|-----------------------|-------------------------------------------------------------------------------------------------------|-------------------|--------------|---------------------------------------------------------------------------------------------------|
+| **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)**              | AutoML tool for RAG. Actively developing. Building business with it.                                  | Marker-Inc-Korea  | 2024~         | ![GitHub Repo stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=social)   |
+|  **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)**          | Chrome extension to find the evidence from the cited webpage automatically.                           | Rice-Bobb         | 2025          | ![GitHub Repo stars](https://img.shields.io/github/stars/RiceBobb/ClueHunter-Perplexity?style=social)                                                                                               |
+|  **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)**  | Awesome list of Korean LLM models.                                                                    | NomaDamas         | 2023~         | ![GitHub Repo stars](https://img.shields.io/github/stars/NomaDamas/awesome-korean-llm?style=social)                                                                                                |
+| **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** | Prompt Engineering for solving KSAT (수능) Korean problems.                                            | NomaDamas         | 2023          | ![GitHub Repo stars](https://img.shields.io/github/stars/NomaDamas/KICE_slayer_AI_Korean?style=social)                                                                                                |
+| **[RAGchain](https://github.com/NomaDamas/RAGchain)**             | Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.         | NomaDamas         | 2023         | ![GitHub Repo stars](https://img.shields.io/github/stars/NomaDamas/RAGchain?style=social)                                                                                                |
+| **[In-game PPL Solution](https://edai.imweb.me/)**   | Unity SDK for in-game advertising. Build technologies for measuring valid impressions of in-game advertisements. | EDAI              | 2022~2023     | -                                                                                                 |
+| **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)**             | Researching and developing super resolution model for restoring K-pop girl group idols.                | EDA               | 2022          | ![GitHub Repo stars](https://img.shields.io/github/stars/PCEO-AI-CLUB/IdolGAN?style=social)                                                                                                |
+| **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)**               | Making high quality face image dataset of K-pop female idol.                                          | EDA               | 2022          | ![GitHub Repo stars](https://img.shields.io/github/stars/PCEO-AI-CLUB/KID-F?style=social)                                                                                                 |
+
 
 ## ⚡ Contirbutions
 - **[NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)**
