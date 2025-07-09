@@ -2,9 +2,10 @@ Hi there 👋 I'm Bwook(bobb) Kim.
 
 - 🔭 I am making [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG).
 - 🍚 I am co-founder of [Rice-Bobb](https://github.com/RiceBobb) foundation, which is non-commercial open-source foundation in AI field.
-  
-### [LinkedIn](https://www.linkedin.com/in/autorag-bwook)
-### [Korean blog](https://bobb-ai-brain.vercel.app)
+
+### My Area
+- [LinkedIn](https://www.linkedin.com/in/autorag-bwook)
+- [Korean blog](https://bobb-ai-brain.vercel.app)
 
 ## 💼 Projects
 * `AutoRAG` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. Actively developing. Building business with it.
