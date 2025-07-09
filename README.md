@@ -9,16 +9,90 @@ Hi there 👋 I'm Bwook(bobb) Kim.
 
 ## 💼 Projects
 
-| Name                  | Description                                                                                           | Corporation       | Period / Year | Star                                                                                              |
-|-----------------------|-------------------------------------------------------------------------------------------------------|-------------------|--------------|---------------------------------------------------------------------------------------------------|
-| **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)**              | AutoML tool for RAG. Actively developing. Building business with it.                                  | Marker-Inc-Korea  | 2024~         | ![GitHub Repo stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=social)   |
-|  **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)**          | Chrome extension to find the evidence from the cited webpage automatically.                           | Rice-Bobb         | 2025          | ![GitHub Repo stars](https://img.shields.io/github/stars/RiceBobb/ClueHunter-Perplexity?style=social)                                                                                               |
-|  **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)**  | Awesome list of Korean LLM models.                                                                    | NomaDamas         | 2023~         | ![GitHub Repo stars](https://img.shields.io/github/stars/NomaDamas/awesome-korean-llm?style=social)                                                                                                |
-| **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** | Prompt Engineering for solving KSAT (수능) Korean problems.                                            | NomaDamas         | 2023          | ![GitHub Repo stars](https://img.shields.io/github/stars/NomaDamas/KICE_slayer_AI_Korean?style=social)                                                                                                |
-| **[RAGchain](https://github.com/NomaDamas/RAGchain)**             | Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.         | NomaDamas         | 2023         | ![GitHub Repo stars](https://img.shields.io/github/stars/NomaDamas/RAGchain?style=social)                                                                                                |
-| **[In-game PPL Solution](https://edai.imweb.me/)**   | Unity SDK for in-game advertising. Build technologies for measuring valid impressions of in-game advertisements. | EDAI              | 2022~2023     | -                                                                                                 |
-| **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)**             | Researching and developing super resolution model for restoring K-pop girl group idols.                | EDA               | 2022          | ![GitHub Repo stars](https://img.shields.io/github/stars/PCEO-AI-CLUB/IdolGAN?style=social)                                                                                                |
-| **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)**               | Making high quality face image dataset of K-pop female idol.                                          | EDA               | 2022          | ![GitHub Repo stars](https://img.shields.io/github/stars/PCEO-AI-CLUB/KID-F?style=social)                                                                                                 |
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Corporation</th>
+      <th>Period / Year</th>
+      <th style="font-size:1.2em; text-align:center;">⭐ Star</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Marker-Inc-Korea/AutoRAG"><b>AutoRAG</b></a></td>
+      <td>AutoML tool for RAG. Actively developing. Building business with it.</td>
+      <td>Marker-Inc-Korea</td>
+      <td>2024~</td>
+      <td align="center" style="font-size:1.5em;">
+        <img src="https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=for-the-badge&logo=github&label=" height="28"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/RiceBobb/ClueHunter-Perplexity"><b>ClueHunter</b></a></td>
+      <td>Chrome extension to find the evidence from the cited webpage automatically.</td>
+      <td>Rice-Bobb</td>
+      <td>2025</td>
+      <td align="center" style="font-size:1.5em;">
+        <img src="https://img.shields.io/github/stars/RiceBobb/ClueHunter-Perplexity?style=for-the-badge&logo=github&label=" height="28"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/awesome-korean-llm"><b>awesome-korean-llm</b></a></td>
+      <td>Awesome list of Korean LLM models.</td>
+      <td>NomaDamas</td>
+      <td>2023~</td>
+      <td align="center" style="font-size:1.5em;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/awesome-korean-llm?style=for-the-badge&logo=github&label=" height="28"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/KICE_slayer_AI_Korean"><b>KICE-slayer-AI-Korean</b></a></td>
+      <td>Prompt Engineering for solving KSAT (수능) Korean problems.</td>
+      <td>NomaDamas</td>
+      <td>2023</td>
+      <td align="center" style="font-size:1.5em;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/KICE_slayer_AI_Korean?style=for-the-badge&logo=github&label=" height="28"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/RAGchain"><b>RAGchain</b></a></td>
+      <td>Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.</td>
+      <td>NomaDamas</td>
+      <td>2023</td>
+      <td align="center" style="font-size:1.5em;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/RAGchain?style=for-the-badge&logo=github&label=" height="28"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://edai.imweb.me/"><b>In-game PPL Solution</b></a></td>
+      <td>Unity SDK for in-game advertising. Build technologies for measuring valid impressions of in-game advertisements.</td>
+      <td>EDAI</td>
+      <td>2022~2023</td>
+      <td align="center" style="font-size:1.5em;">-</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PCEO-AI-CLUB/IdolGAN"><b>IdolGAN</b></a></td>
+      <td>Researching and developing super resolution model for restoring K-pop girl group idols.</td>
+      <td>EDA</td>
+      <td>2022</td>
+      <td align="center" style="font-size:1.5em;">
+        <img src="https://img.shields.io/github/stars/PCEO-AI-CLUB/IdolGAN?style=for-the-badge&logo=github&label=" height="28"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PCEO-AI-CLUB/KID-F"><b>KID-F</b></a></td>
+      <td>Making high quality face image dataset of K-pop female idol.</td>
+      <td>EDA</td>
+      <td>2022</td>
+      <td align="center" style="font-size:1.5em;">
+        <img src="https://img.shields.io/github/stars/PCEO-AI-CLUB/KID-F?style=for-the-badge&logo=github&label=" height="28"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ## ⚡ Contirbutions
