@@ -86,11 +86,23 @@ Hi there 👋 I'm Bwook(bobb) Kim.
 
 
 
-## ⚡ Contirbutions
-- **[NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)**
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>⚡ Contirbutions</h3>
+      <ul>
+        <li><b><a href="https://github.com/NVIDIA/NeMo-Guardrails">NVIDIA/NeMo-Guardrails</a></b></li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>📑 Paper</h3>
+      <ul>
+        <li><a href="https://arxiv.org/abs/2410.20878">AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## 📑 Paper
-* [AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline](https://arxiv.org/abs/2410.20878)
 
 ## 🎤 Conferences/Sessions
 - Workshop at UberAI about AutoRAG
