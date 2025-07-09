@@ -33,7 +33,7 @@ Hi there 👋 I'm Bwook(bobb) Kim.
       <td align="center" style="font-size:1.4em; font-weight:bold;">
         <img src="https://img.shields.io/github/stars/NomaDamas/KICE_slayer_AI_Korean?style=flat&label=%E2%AD%90" height="24"/>
       </td>
-      <td>2023 ~ 2024</td>
+      <td>2023~2024</td>
     </tr>
     <tr>
       <td><a href="https://github.com/NomaDamas/awesome-korean-llm"><b>awesome-korean-llm</b></a></td>
