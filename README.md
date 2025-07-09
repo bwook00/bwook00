@@ -84,7 +84,7 @@ Hi there 👋 I'm Bwook(bobb) Kim.
       <td>EDA</td>
     </tr>
     <tr>
-      <td><a href="https://edai.imweb.me/"><b>In-game PPL Solution</b></a></td>
+      <td><a href="https://windy-houseboat-446.notion.site/EDAI-ad684228cb9245199c472fcb62681cf4"><b>In-game PPL Solution</b></a></td>
       <td>Unity SDK for in-game advertising. Build technologies for measuring valid impressions of in-game advertisements.</td>
       <td align="center">-</td>
       <td>2022~2023</td>
