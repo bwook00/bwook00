@@ -1,23 +1,10 @@
-Hi there 👋 I'm Bwook Kim (Byoungwook Kim). 
+Hi there 👋 I'm Bwook(bobb) Kim. 
 
 - 🔭 I am making [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG).
-### [My LinkenIn](https://www.linkedin.com/in/autorag-bwook)
-### [My blog](https://bobb-ai-brain.vercel.app)
-
-## 🤩 Skills
-
-- RAG Evaluation & Optimization
-- RAG Data Preprocess
-- Build opensource project from zero base
-- Manage open source community
-- Technical writing
-
-## Interest
-
-- RAG Evaluation & Optimization
-- LLM Evaluation
-- AI Alignment / Safety 
-- Multi-Modal
+- 🍚 I am co-founder of [Rice-Bobb](https://github.com/RiceBobb) foundation, which is non-commercial open-source foundation in AI field.
+  
+### [LinkedIn](https://www.linkedin.com/in/autorag-bwook)
+### [Korean blog](https://bobb-ai-brain.vercel.app)
 
 ## 💼 Projects
 * `AutoRAG` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. Actively developing. Building business with it.
@@ -29,18 +16,28 @@ Hi there 👋 I'm Bwook Kim (Byoungwook Kim).
 * `EDA` **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols.
 * `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idol.
 
-## Contirbutions
-**[NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)**
+## ⚡ Contirbutions
+- **[NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)**
 
-## Paper
+## 📑 Paper
 * [AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline](https://arxiv.org/abs/2410.20878)
 
-## Conferences/Sessions
-- Uber AI: Online Seminar
+## 🎤 Conferences/Sessions
+- Workshop at UberAI about AutoRAG
 - AWS Korea: [2024 AWS Gen AI Loft Seoul](https://aws.amazon.com/startups/events/autorag-optimal-rag-pipeline)
 - Google Developer Gropus: [2024 GDG Devfest Seoul](https://www.facebook.com/googlefordevskr/posts/12%EC%9B%94-14%EC%9D%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%98-%EC%B6%95%EC%A0%9C-devfest-2024-seoul%EC%9D%B4-%EA%B0%9C%EC%B5%9C-%EB%90%A9%EB%8B%88%EB%8B%A4gdg-seoul%EC%9D%B4-%EC%A3%BC%EC%B5%9C%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-devfest-2024/1118098330323786/)
-- Youtube Teddy Note
-- [Fast Campus](https://fastcampus.co.kr/data_online_evaluation)
+- [TeddyNote Youtube Live](https://www.youtube.com/live/zjUPWtsjdWk?si=EIKwv8Rxa1WWxeGs) - Talked about AutoRAG and RAG optimization
+- [Fast Campus online lecture](https://fastcampus.co.kr/data_online_evaluation)
+- PseudoCon AutoRAG Booth
+
+## 🤩 Skills
+
+- RAG Evaluation & Optimization
+- RAG Data Preprocess
+- Build opensource project from zero base
+- Manage open source community
+- Technical writing
+
 
 <details>
   <summary><b>🎀 Competitions</b></summary>
