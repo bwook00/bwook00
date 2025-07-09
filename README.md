@@ -14,8 +14,8 @@ Hi there 👋 I'm Bwook(bobb) Kim.
     <tr>
       <th>Name</th>
       <th>Description</th>
-      <th style="font-size:1.2em; text-align:center;">⭐ Star</th>
-      <th>Year / Period</th>
+      <th style="font-size:1.2em; text-align:center;">Stars</th>
+      <th>Year</th>
     </tr>
   </thead>
   <tbody>
