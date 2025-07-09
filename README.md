@@ -26,7 +26,7 @@ Hi there 👋 I'm Bwook(bobb) Kim.
       <td align="center">
         <img src="https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=flat&label=" height="20"/>
       </td>
-      <td>2024 ~ </td>
+      <td>2024~</td>
       <td>Marker-Inc-Korea</td>
     </tr>
     <tr>
@@ -44,7 +44,7 @@ Hi there 👋 I'm Bwook(bobb) Kim.
       <td align="center">
         <img src="https://img.shields.io/github/stars/NomaDamas/awesome-korean-llm?style=flat&label=" height="20"/>
       </td>
-      <td>2023</td>
+      <td>2023~</td>
       <td>NomaDamas</td>
     </tr>
     <tr>
@@ -83,12 +83,15 @@ Hi there 👋 I'm Bwook(bobb) Kim.
       <td>2022</td>
       <td>EDA</td>
     </tr>
+    <tr>
+      <td><a href="https://edai.imweb.me/"><b>In-game PPL Solution</b></a></td>
+      <td>Unity SDK for in-game advertising. Build technologies for measuring valid impressions of in-game advertisements.</td>
+      <td align="center">-</td>
+      <td>2022~2023</td>
+      <td>EDAI</td>
+    </tr>
   </tbody>
 </table>
-
-
-
-
 
 
 ## ⚡ Contirbutions
