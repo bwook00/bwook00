@@ -14,8 +14,8 @@ Hi there 👋 I'm Bwook(bobb) Kim.
     <tr>
       <th>Name</th>
       <th>Description</th>
-      <th style="font-size:1.2em; text-align:center;">⭐ Star</th>
-      <th>Year / Period</th>
+      <th>Stars</th>
+      <th>Period</th>
       <th>Corporation</th>
     </tr>
   </thead>
@@ -23,8 +23,8 @@ Hi there 👋 I'm Bwook(bobb) Kim.
     <tr>
       <td><a href="https://github.com/Marker-Inc-Korea/AutoRAG"><b>AutoRAG</b></a></td>
       <td>AutoML tool for RAG. Actively developing. Building business with it.</td>
-      <td align="center" style="font-size:1.5em;">
-        <img src="https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=for-the-badge&logo=github&label=" height="28"/>
+      <td align="center">
+        <img src="https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=flat&label=" height="20"/>
       </td>
       <td>2024~</td>
       <td>Marker-Inc-Korea</td>
@@ -32,8 +32,8 @@ Hi there 👋 I'm Bwook(bobb) Kim.
     <tr>
       <td><a href="https://github.com/RiceBobb/ClueHunter-Perplexity"><b>ClueHunter</b></a></td>
       <td>Chrome extension to find the evidence from the cited webpage automatically.</td>
-      <td align="center" style="font-size:1.5em;">
-        <img src="https://img.shields.io/github/stars/RiceBobb/ClueHunter-Perplexity?style=for-the-badge&logo=github&label=" height="28"/>
+      <td align="center">
+        <img src="https://img.shields.io/github/stars/RiceBobb/ClueHunter-Perplexity?style=flat&label=" height="20"/>
       </td>
       <td>2025</td>
       <td>Rice-Bobb</td>
@@ -41,8 +41,8 @@ Hi there 👋 I'm Bwook(bobb) Kim.
     <tr>
       <td><a href="https://github.com/NomaDamas/awesome-korean-llm"><b>awesome-korean-llm</b></a></td>
       <td>Awesome list of Korean LLM models.</td>
-      <td align="center" style="font-size:1.5em;">
-        <img src="https://img.shields.io/github/stars/NomaDamas/awesome-korean-llm?style=for-the-badge&logo=github&label=" height="28"/>
+      <td align="center">
+        <img src="https://img.shields.io/github/stars/NomaDamas/awesome-korean-llm?style=flat&label=" height="20"/>
       </td>
       <td>2023~</td>
       <td>NomaDamas</td>
@@ -50,8 +50,8 @@ Hi there 👋 I'm Bwook(bobb) Kim.
     <tr>
       <td><a href="https://github.com/NomaDamas/KICE_slayer_AI_Korean"><b>KICE-slayer-AI-Korean</b></a></td>
       <td>Prompt Engineering for solving KSAT (수능) Korean problems.</td>
-      <td align="center" style="font-size:1.5em;">
-        <img src="https://img.shields.io/github/stars/NomaDamas/KICE_slayer_AI_Korean?style=for-the-badge&logo=github&label=" height="28"/>
+      <td align="center">
+        <img src="https://img.shields.io/github/stars/NomaDamas/KICE_slayer_AI_Korean?style=flat&label=" height="20"/>
       </td>
       <td>2023</td>
       <td>NomaDamas</td>
@@ -59,8 +59,8 @@ Hi there 👋 I'm Bwook(bobb) Kim.
     <tr>
       <td><a href="https://github.com/NomaDamas/RAGchain"><b>RAGchain</b></a></td>
       <td>Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.</td>
-      <td align="center" style="font-size:1.5em;">
-        <img src="https://img.shields.io/github/stars/NomaDamas/RAGchain?style=for-the-badge&logo=github&label=" height="28"/>
+      <td align="center">
+        <img src="https://img.shields.io/github/stars/NomaDamas/RAGchain?style=flat&label=" height="20"/>
       </td>
       <td>2023</td>
       <td>NomaDamas</td>
@@ -68,15 +68,15 @@ Hi there 👋 I'm Bwook(bobb) Kim.
     <tr>
       <td><a href="https://edai.imweb.me/"><b>In-game PPL Solution</b></a></td>
       <td>Unity SDK for in-game advertising. Build technologies for measuring valid impressions of in-game advertisements.</td>
-      <td align="center" style="font-size:1.5em;">-</td>
+      <td align="center">-</td>
       <td>2022~2023</td>
       <td>EDAI</td>
     </tr>
     <tr>
       <td><a href="https://github.com/PCEO-AI-CLUB/IdolGAN"><b>IdolGAN</b></a></td>
       <td>Researching and developing super resolution model for restoring K-pop girl group idols.</td>
-      <td align="center" style="font-size:1.5em;">
-        <img src="https://img.shields.io/github/stars/PCEO-AI-CLUB/IdolGAN?style=for-the-badge&logo=github&label=" height="28"/>
+      <td align="center">
+        <img src="https://img.shields.io/github/stars/PCEO-AI-CLUB/IdolGAN?style=flat&label=" height="20"/>
       </td>
       <td>2022</td>
       <td>EDA</td>
@@ -84,14 +84,15 @@ Hi there 👋 I'm Bwook(bobb) Kim.
     <tr>
       <td><a href="https://github.com/PCEO-AI-CLUB/KID-F"><b>KID-F</b></a></td>
       <td>Making high quality face image dataset of K-pop female idol.</td>
-      <td align="center" style="font-size:1.5em;">
-        <img src="https://img.shields.io/github/stars/PCEO-AI-CLUB/KID-F?style=for-the-badge&logo=github&label=" height="28"/>
+      <td align="center">
+        <img src="https://img.shields.io/github/stars/PCEO-AI-CLUB/KID-F?style=flat&label=" height="20"/>
       </td>
       <td>2022</td>
       <td>EDA</td>
     </tr>
   </tbody>
 </table>
+
 
 
 
