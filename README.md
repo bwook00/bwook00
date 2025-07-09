@@ -22,7 +22,7 @@ Hi there 👋 I'm Bwook(bobb) Kim.
   <tbody>
     <tr>
       <td><a href="https://github.com/Marker-Inc-Korea/AutoRAG"><b>AutoRAG</b></a></td>
-      <td>AutoML tool for RAG. Actively developing. Building business with it.</td>
+      <td>AutoML tool for RAG.</td>
       <td align="center">
         <img src="https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=flat&label=" height="20"/>
       </td>
