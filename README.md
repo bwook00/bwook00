@@ -68,6 +68,14 @@ Hi there 👋 I'm Bwook(bobb) Kim.
       <td>2025</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/RiceBobb/KoDarkBench"><b>KoDarkBench</b></a></td>
+      <td>Korean version of DarkBench</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/RiceBobb/KoDarkBench?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2025</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/PCEO-AI-CLUB/IdolGAN"><b>IdolGAN</b></a></td>
       <td>Researching and developing super resolution model for restoring K-pop girl group idols.</td>
       <td align="center" style="font-size:1.4em; font-weight:bold;">
