@@ -52,6 +52,14 @@ Hi there 👋 I'm Bwook(bobb) Kim.
       <td>2023</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/RiceBobb/KoDarkBench"><b>KoDarkBench</b></a></td>
+      <td>Korean version of DarkBench</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/RiceBobb/KoDarkBench?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2025</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/PCEO-AI-CLUB/KID-F"><b>KID-F</b></a></td>
       <td>Making high quality face image dataset of K-pop female idol.</td>
       <td align="center" style="font-size:1.4em; font-weight:bold;">
@@ -64,14 +72,6 @@ Hi there 👋 I'm Bwook(bobb) Kim.
       <td>Chrome extension to find the evidence from the cited webpage automatically.</td>
       <td align="center" style="font-size:1.4em; font-weight:bold;">
         <img src="https://img.shields.io/github/stars/RiceBobb/ClueHunter-Perplexity?style=flat&label=%E2%AD%90" height="24"/>
-      </td>
-      <td>2025</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/RiceBobb/KoDarkBench"><b>KoDarkBench</b></a></td>
-      <td>Korean version of DarkBench</td>
-      <td align="center" style="font-size:1.4em; font-weight:bold;">
-        <img src="https://img.shields.io/github/stars/RiceBobb/KoDarkBench?style=flat&label=%E2%AD%90" height="24"/>
       </td>
       <td>2025</td>
     </tr>
