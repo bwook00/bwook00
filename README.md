@@ -1,7 +1,7 @@
 Hi there 👋 I'm Bwook(bobb) Kim. 
 
 - 🔭 I am making [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG).
-- 🍚 I am co-founder of [Rice-Bobb](https://github.com/RiceBobb) foundation, which is non-commercial open-source foundation in AI field.
+- 🍙 I am a co-founder of [NomaDamas](https://github.com/NomaDamas), which is an open-source AI HackerHouse in Seoul backed by Markr AI.
 
 ### My Area
 - [LinkedIn](https://www.linkedin.com/in/autorag-bwook)
