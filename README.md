@@ -108,21 +108,7 @@ Hi there 👋 I'm Bwook(bobb) Kim.
 - [Fast Campus online lecture](https://fastcampus.co.kr/data_online_evaluation)
 - PseudoCon AutoRAG Booth
 
-## 🤩 Skills
+## 🎀 Competitions
 
-- RAG Evaluation & Optimization
-- RAG Data Preprocess
-- Build opensource project from zero base
-- Manage open source community
-- Technical writing
-
-
-<details>
-  <summary><b>🎀 Competitions</b></summary>
-  <div markdown="1">
-    <h3 id="challenged">Challenged</h3>
-    <ul>
-    <li><code>Dacon</code>  <strong><a href="https://dacon.io/competitions/official/235863/leaderboard">Job Care Recommendation Algoritm Competition</a></strong> 15/728 <a href="https://github.com/PCEO-AI-CLUB/JobCare--DACON">Code</a></li>
-    <li><code>Dacon</code> <strong><a href="https://dacon.io/competitions/official/235949/leaderboard">Han River Water Level Prediction Competition</a></strong> 16/308 </li>
-</ul>
-</details>
+- SK AI SUMMIT 2025 Claude Code Builder Hackathon, **🥇 1st Prize**, SKT, Anthropic, Coxwave, 2025
+- Open-Source Developer Competition, **🥇 1st Prize**, Ministry of Science and ICT, Korea, 2024
