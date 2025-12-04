@@ -95,6 +95,7 @@ Hi there 👋 I'm Bwook(bobb) Kim.
 ## ⚡ Contirbutions
 - **[NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)**
 - **[huggingface/trl](https://github.com/huggingface/trl)**
+- **[llamastack/llama-stack](https://github.com/llamastack/llama-stack)**
 
 ## 📑 Paper
 * [AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline](https://arxiv.org/abs/2410.20878)
