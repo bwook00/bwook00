@@ -111,5 +111,5 @@ Hi there 👋 I'm Bwook(bobb) Kim.
 
 ## 🎀 Competitions
 
-- SK AI SUMMIT 2025 Claude Code Builder Hackathon, **🥇 1st Prize**, SKT, Anthropic, Coxwave, 2025
+- 2025 Claude Code Builder Hackathon, SK AI SUMMIT **🥇 1st Prize**, **Anthropic**, SKT, Coxwave, 2025
 - Open-Source Developer Competition, **🥇 1st Prize**, Ministry of Science and ICT, Korea, 2024
