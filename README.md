@@ -1,6 +1,6 @@
 Hi there 👋 I'm Bwook(bobb) Kim. 
 
-- 🔭 I was creator of [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) (4.7K ⭐)
+- 🔭 I was creator of [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) (5.1K ⭐)
 - 🐻 I am a AI Engineer at [Runbear](https://runbear.io/)
 - 🍙 I am a co-founder of [NomaDamas](https://github.com/NomaDamas), which is an open-source AI HackerHouse in Seoul backed by Markr AI.
 
